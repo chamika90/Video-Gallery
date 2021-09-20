@@ -25,6 +25,7 @@ const styles = StyleSheet.create({
   },
   dropDownButtonStyle: {
     width: '60%',
+    borderRadius: 6,
   },
 });
 

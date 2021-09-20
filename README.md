@@ -3,7 +3,7 @@
 ## Description
 
 Implement a music video gallery app with image caching.
-You can filter the videos by its artist name , title or genre. By clicking on an Image title you
+You can filter the videos by its artist name , title or genre. By clicking on an Image you
 can view more details about the video.
 
 This project is done by using Typescript

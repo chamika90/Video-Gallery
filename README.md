@@ -1,4 +1,4 @@
-# Photo-Gallery
+# Video-Gallery
 
 ## Description
 
